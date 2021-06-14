@@ -2,6 +2,28 @@
 
 This repository contains various Image Classification projects which have been built using TensorFlow.
 
+Tech. Stack :
+- [x] Python
+- [x] TensorFlow/Keras
+- [x] NumPy
+- [x] OpenCV
+- [x] PIL (pillow)
+- [x] tkinter
+- [x] Sci-kit Learn
+- [x] Matplotlib
+- [x] DNN Caffe Models - face detection
+- [x] mobilenet_v2 base model with pre-trained weights of 'imagenet'
+
+Categories :
+- [x] Image Classification (Computer Vision)
+- [x] Deep Learning
+- [x] Transfer Learning
+- [x] Real-time Face Detection
+- [x] Image Augmentation
+- [x] Neural Network Architucture Implementation
+- [x] Model Evaluation
+
+---
 ## [Real-time Face Mask Detector](https://github.com/rkshiyaniya/Real-Time-Face-Mask-Detector)
 
 * It's binary class classification task - (People Wearing Mask & Without Mask)
@@ -34,3 +56,6 @@ This repository contains various Image Classification projects which have been b
 
 * It's multi-class classification task - (Predict between 10 different classes)
 * MiniVGGNet Architecture has been used for Image Classification on cifar10 dataset.
+
+---
+**Note** : For in-depth details go to respective links.
